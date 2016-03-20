@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.licenses    = ["MIT"]
   s.files       = [ "lib/bunto-mentions.rb" ]
 
-  s.add_dependency "bunto", '~> 1.0'
+  s.add_dependency "bunto"
   s.add_dependency "html-pipeline", '~> 2.3'
 
   s.add_development_dependency 'rake'
