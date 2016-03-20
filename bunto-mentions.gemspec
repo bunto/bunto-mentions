@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = "bunto-mentions"
   s.summary     = "@mention support for your Bunto site"
-  s.version     = "1.0.0"
+  s.version     = "2.0.0"
   s.authors     = ["GitHub, Inc."]
   s.email       = "support@github.com"
 
